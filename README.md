@@ -8,7 +8,7 @@ Nenhuma :sweat_smile:
 
 | Data        | Título | Material | Evento | Local |
 | ----------- | ----- | ----- | -------- | ------|
-| 03 Dezembro 2016 | Geração de Código - 👍 ou 👎? | [Slides](https://speakerdeck.com/marcelofabri/geracao-de-codigo-ou) | [CocoaHeads Conference 2016](http://cocoaheadsconference.com.br) | SP |
+| 03 Dezembro 2016 | Geração de Código - 👍 ou 👎? | [Slides](https://speakerdeck.com/marcelofabri/geracao-de-codigo-ou) [Vídeo](https://www.youtube.com/watch?v=yxLal-CMR6U) | [CocoaHeads Conference 2016](http://cocoaheadsconference.com.br) | SP |
 | 01 Março 2016 | Desenvolvendo um plugin para o Xcode | [Slides](https://speakerdeck.com/marcelofabri/desenvolvendo-um-plugin-para-o-xcode) | [CocoaHeads SP](http://www.meetup.com/pt-BR/AppsterdamBR/) | SP |
 | 25 Setembro 2014 | Desenvolvimento iOS em projetos reais | [Slides](https://speakerdeck.com/marcelofabri/desenvolvimento-ios-em-projetos-reais-qcon-rio-2014) | [CocoaHeads Campinas](http://www.meetup.com/pt-BR/CocoaHeadsCPS/) | Campinas |
 | 24 Setembro 2014 | Desenvolvimento iOS em projetos reais |  [Slides](https://speakerdeck.com/marcelofabri/desenvolvimento-ios-em-projetos-reais-qcon-rio-2014) [Vídeo](https://www.infoq.com/br/presentations/desenvolvimento-ios-em-projetos-reais) | [QCon Rio](http://qconrio.com) | RJ |
